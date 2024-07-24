@@ -64,7 +64,13 @@
                 </tr>
             </thead>
             <tbody>
-                
+                <tr>
+                    <th>Name</th>
+                    <th>Desctiption</th>
+                    <th>Parcking</th>
+                    <th>Vote</th>
+                    <th>Distance of center</th>
+                </tr>
             </tbody>
          </table>
     </div>
