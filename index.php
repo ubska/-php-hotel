@@ -51,6 +51,22 @@
 <body>
     <div class="container">
         <h2>Hotel Disponibili</h2>
+
+        <!-- tabella -->
+         <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Desctiption</th>
+                    <th>Parcking</th>
+                    <th>Vote</th>
+                    <th>Distance of center</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            </tbody>
+         </table>
     </div>
 </body>
 </html>
