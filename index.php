@@ -66,11 +66,11 @@
             </thead>
             <tbody>
                 <tr>
-                    <th>Name</th>
-                    <th>Desctiption</th>
-                    <th>Parcking</th>
-                    <th>Vote</th>
-                    <th>Distance of center</th>
+                    <td>Name</td>
+                    <td>Desctiption</td>
+                    <td>Parcking</td>
+                    <td>Vote</td>
+                    <td>Distance of center</td>
                 </tr>
             </tbody>
          </table>
